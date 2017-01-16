@@ -2,7 +2,7 @@ body {
     background-color: #C6E2FF;
 }
 
-h1#top { /* This has more specificity tha the H1 below */
+h1#top { /* This has more specificity than the H1 below */
     text-align: center;
     background-color: #04B986;
     padding-bottom; 10px;
@@ -16,9 +16,7 @@ h1 {
   text-align: center;
 }
 
-
-
-nav {
+nav.unorderedlist {
     margin:auto
     /*display: block;
 
